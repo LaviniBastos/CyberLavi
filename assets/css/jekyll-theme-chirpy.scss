@@ -3,21 +3,21 @@
 //Personalizações abaixo
 
 /* Hover rosa nos links do menu */
-.sidebar a:hover,
-.sidebar .site-title:hover,
+.sidebar a:hover !important;
+.sidebar .site-title:hover !important;
 .sidebar .site-subtitle:hover {
-  color: #ff66b2;
+  color: #ff66b2 !important;
 }
 
 /* Avatar centralizado */
 .sidebar-avatar {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 1rem;
+  display: flex !important;
+  justify-content: center !important;
+  margin-bottom: 1rem !important;
 }
 
 .sidebar-avatar img {
-  border-radius: 50%;
-  width: 100px;
-  height: 100px;
+  border-radius: 50% !important;
+  width: 100px !important;
+  height: 100px !important;
 }
