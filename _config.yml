@@ -15,10 +15,10 @@ timezone:
 # ↓ --------------------------
 
 
-title: CyberLavi # the main title
+title: Lavini Bastos # the main title
 
 tagline: Minha trajetória em um mundo a parte que é a tecnologia, compartilhando experiências, resultados e muitos aprendizados # it will display as the subtitle
-favicon: "/assets/img/favicons/favicon.png"
+favicon: "CyberLavi/assets/img/favicons/favicon.png"
 description: >- # used by seo meta and the atom feed
   Portfólio e blog técnico onde compartilho meus estudos, laboratórios em cloud, segurança, e muito mais!
 
