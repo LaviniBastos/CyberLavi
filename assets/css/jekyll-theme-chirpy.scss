@@ -1,11 +1,23 @@
----
----
+@import "main"; // Importa os estilos padrão do tema
 
-@import "main"; // Importa os estilos padrão do Chirpy
+//Personalizações abaixo
 
-
+/* Hover rosa nos links do menu */
+.sidebar a:hover,
 .sidebar .site-title:hover,
 .sidebar .site-subtitle:hover {
-  color: #ff66b2; // rosa
-  
+  color: #ff66b2;
+}
+
+/* Avatar centralizado */
+.sidebar-avatar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.sidebar-avatar img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
 }
