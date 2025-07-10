@@ -13,6 +13,7 @@ timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
+favicon: /assets/img/favicons/favicon.png
 
 title: CyberLavi # the main title
 
@@ -93,7 +94,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D4D03AQHEZxxFKuoXIw/profile-displayphoto-shrink_800_800/B4DZb5RqZIGYAk-/0/1747938879710?e=1757548800&v=beta&t=5F5oQu52ZYb_WdULFD4Ya1vZXoJfdrA0cw4CKwZVMKI
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
