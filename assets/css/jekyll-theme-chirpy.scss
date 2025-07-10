@@ -1,10 +1,10 @@
 @import "main"; // Importa os estilos padrão do tema
 
-//Personalizações abaixo
+// Personalizações abaixo
 
 /* Hover rosa nos links do menu */
-.sidebar a:hover !important;
-.sidebar .site-title:hover !important;
+.sidebar a:hover,
+.sidebar .site-title:hover,
 .sidebar .site-subtitle:hover {
   color: #ff66b2 !important;
 }
