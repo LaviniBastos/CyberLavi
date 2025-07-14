@@ -1,0 +1,23 @@
+@import "main"; // Importa os estilos padrão do tema
+
+// Personalizações abaixo
+
+/* Hover rosa nos links do menu */
+.sidebar a:hover,
+.sidebar .site-title:hover,
+.sidebar .site-subtitle:hover {
+  color: #ff66b2 !important;
+}
+
+/* Avatar centralizado */
+.sidebar-avatar {
+  display: flex !important;
+  justify-content: center !important;
+  margin-bottom: 1rem !important;
+}
+
+.sidebar-avatar img {
+  border-radius: 50% !important;
+  width: 100px !important;
+  height: 100px !important;
+}
