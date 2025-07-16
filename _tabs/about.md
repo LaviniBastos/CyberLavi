@@ -16,14 +16,15 @@ Tenho também grande interesse pela área de **Governança de TI**, o que me mot
 Quando bem estruturada, a governança alinha a tecnologia aos objetivos do negócio, promovendo conformidade com auditorias, integração estratégica entre diferentes áreas, previsibilidade nos fluxos de trabalho e ganhos reais em produtividade. Mais do que organização, trata-se de direcionar os esforços da TI para gerar valor concreto ao cliente e à empresa.
 
 
-<p align="center"><strong>Tecnologia como ferramenta de transformação social e evolução constante.</strong></p>
+<p align="center"><strong>Acredito na tecnologia como ferramenta de transformação social e evolução constante.</strong></p>
 
 
-<p align="center"> ##  **Conhecimentos Técnicos** </p>
+##  **Conhecimentos Técnicos**
 
 Tenho um conjunto de competências técnicas construídas ao longo de formações, cursos, certificações e experiências práticas, com foco em segurança da informação e cloud computing.
 
-<p align="center"> ### **Fundamentos em Redes e Segurança** </p>
+
+### **Fundamentos em Redes e Segurança**
 
 - Conhecimentos em **redes de computadores**, com base na formação Cisco CCNA (módulos 1, 2 e 3 em andamento).
     
@@ -34,7 +35,7 @@ Tenho um conjunto de competências técnicas construídas ao longo de formaçõe
 - Fundamentos de **criptografia**, **autenticação** e **autorização**.
     
 
-<p align="center"> ### **Cloud Computing & Segurança em Nuvem** </p>
+### **Cloud Computing & Segurança em Nuvem**
 
 - Experiência com **AWS**: EC2, S3, RDS, Lambda, VPC, IAM, políticas e segurança de dados.
     
@@ -51,7 +52,7 @@ Tenho um conjunto de competências técnicas construídas ao longo de formaçõe
 - Certificada como **AWS Cloud Practitioner** e em formação como **AWS Developer**. 
     
 
-<p align="center"> ### **Governança, Risco e Conformidade (GRC)** </p>
+### **Governança, Risco e Conformidade (GRC)**
 
 - Noções de **ISO 27001**, **COBIT**, **ITIL** e **LGPD**.
     
@@ -60,14 +61,14 @@ Tenho um conjunto de competências técnicas construídas ao longo de formaçõe
 - Pós-graduação em **Gestão e Governança de TI**, com foco na integração entre tecnologia e processos de negócio.
     
 
-<p align="center"> ### **Sistemas e Linguagens** </p>
+### **Sistemas e Linguagens** 
 
 - Sistemas operacionais: **Linux** e **Windows**.
     
 - Linguagens: **Python**, **Shell Script (Bash)**.
     
 
-<p align="center"> ### **Certificações e Cursos** </p>
+### **Certificações e Cursos** 
 
 - AWS Certified Cloud Practitioner _(2025)_
     
