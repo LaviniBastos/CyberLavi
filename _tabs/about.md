@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: About
+permalink: /about/
+---
 # About me
 
 Olá, eu sou a Lavini! Uma mulher trans que encontrou na tecnologia muito mais do que uma carreira: um caminho para **dignidade**, **transformação** e **pertencimento**.
