@@ -2,8 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+icon: fas fa-info-circle
+order: 4
 ---
-# About me
 
 Olá, eu sou a Lavini! Uma mulher trans que encontrou na tecnologia muito mais do que uma carreira: um caminho para **dignidade**, **transformação** e **pertencimento**.
 Minhas competências como profissional falam por si. Sou dedicada, comprometida e curiosa por natureza. O que mais gosto na área de tecnologia é a possibilidade de aprender algo novo todos os dias e eu **adoro aprender**. Acredito fortemente no poder do conhecimento e me considero uma eterna aprendiz, independentemente da fase da vida ou da carreira. E é justamente esse aspecto na área (de segurança principalmente) que me motiva, e considero como um verdadeiro lembrete para sempre pensar fora da caixinha.
@@ -15,7 +16,7 @@ Tenho também grande interesse pela área de **Governança de TI**, o que me mot
 Quando bem estruturada, a governança alinha a tecnologia aos objetivos do negócio, promovendo conformidade com auditorias, integração estratégica entre diferentes áreas, previsibilidade nos fluxos de trabalho e ganhos reais em produtividade. Mais do que organização, trata-se de direcionar os esforços da TI para gerar valor concreto ao cliente e à empresa.
 
 
-Tecnologia como ferramenta de transformação social e evolução constante.
+<p align="center">Tecnologia como ferramenta de transformação social e evolução constante.</p>
 
 
 ##  Conhecimentos Técnicos
