@@ -38,6 +38,6 @@ Além da facilidade de implementação, notei os seguintes pontos positivos:
 
 Abaixo alguns registros do fluxo funcionando:
 
-{% include_relative /assets/img/posts/cloud/StepFunctions1.png %}
-{% include_relative /assets/img/posts/cloud/StepFunctions2.png %}
-{% include_relative /assets/img/posts/cloud/StepFunctions3.png %}
+{% include_relative /assets/img/cloud/StepFunctions1.png %}
+{% include_relative /assets/img/cloud/StepFunctions2.png %}
+{% include_relative /assets/img/cloud/StepFunctions3.png %}
