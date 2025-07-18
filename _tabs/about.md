@@ -6,8 +6,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Olá, eu sou a Lavini! Uma mulher trans que encontrou na tecnologia muito mais do que uma carreira: um caminho para **dignidade**, **transformação** e **pertencimento**.
-Minhas competências como profissional falam por si. Sou dedicada, comprometida e curiosa por natureza. O que mais gosto na área de tecnologia é a possibilidade de aprender algo novo todos os dias e eu **adoro aprender**. Acredito fortemente no poder do conhecimento e me considero uma eterna aprendiz, independentemente da fase da vida ou da carreira. E é justamente esse aspecto na área (de segurança principalmente) que me motiva, e considero como um verdadeiro lembrete para sempre pensar fora da caixinha.
+Olá, eu sou a Lavini! Uma mulher trans que encontrou na tecnologia muito mais do que uma carreira: 
+<p align="center"><strong>um caminho para a **dignidade**, **transformação** e **pertencimento**.</strong></p>
+
+Minhas competências como profissional falam por si. Sou uma pessoa muito dedicada, comprometida e curiosa por natureza. O que mais gosto na área de tecnologia é a possibilidade de aprender algo novo todos os dias e eu **adoro aprender**. Acredito fortemente no poder do conhecimento e me considero uma eterna aprendiz, independentemente da fase da vida ou da carreira. E é justamente esse aspecto na área (de segurança principalmente) que me motiva, e considero como um verdadeiro lembrete para sempre pensar fora da caixinha.
 
 Comecei como autodidata na área de desenvolvimento, mas, com o tempo, percebi a importância de aprofundar meus conhecimentos em segurança da informação. Por isso, decidi me formar na área, buscando construir uma base sólida e abrangente, especialmente voltada ao desenvolvimento seguro. Esse mindset de segurança hoje guia minha atuação em outras vertentes da tecnologia, como a computação em nuvem, área na qual venho me dedicando intensamente com o objetivo de atuar em **Cloud Security** (CloudSec).
 
@@ -18,6 +20,7 @@ Quando bem estruturada, a governança alinha a tecnologia aos objetivos do negó
 
 <p align="center"><strong>Acredito na tecnologia como ferramenta de transformação social e evolução constante.</strong></p>
 
+________
 
 ##  **Conhecimentos Técnicos**
 
