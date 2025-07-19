@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Step Functions como aliado nos processos de execução"
+title: "Step Functions como aliado nos processos de execução."
 date: 2025-07-18 20:00:00 +0000
 categories: [AWS, Lambda, Serverless]
 tags: [step-functions, aws, serverless, lambda, arquitetura]

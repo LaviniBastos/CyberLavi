@@ -17,7 +17,7 @@ timezone:
 
 title: Lavini Bastos # the main title
 
-tagline: Minha trajetória em um mundo a parte que é a tecnologia, compartilhando experiências, resultados e muitos aprendizados # it will display as the subtitle
+tagline: Minha trajetória nesse mundo à parte que é a tecnologia, um espaço para compartilhar experiências, resultados e muitos aprendizados # it will display as the subtitle
 favicon: "CyberLavi/assets/img/favicons/favicon.png"
 description: >- # used by seo meta and the atom feed
   Portfólio e blog técnico onde compartilho meus estudos, laboratórios em cloud, segurança, e muito mais!
