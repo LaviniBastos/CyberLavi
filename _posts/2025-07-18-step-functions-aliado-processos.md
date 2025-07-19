@@ -17,7 +17,7 @@ Recentemente, decidi testar o funcionamento do **Step Functions** na prática em
 - Uma para as **três funções Lambda** que compõem o processo
 - E outra específica para o **Step Functions**, para garantir a permissão de execução correta.
 
-O Step Functions foi utilizado como **orquestrador**, centralizando o fluxo da lógica de negócio. O mais interessante foi observar na prática como ele consegue controlar o caminho de execução, tratando **sucesso**, **falha** e até mesmo caminhos alternativos.
+O Step Functions foi utilizado como o **orquestrador** que ele é, centralizando o fluxo da lógica de negócio. O mais interessante foi observar na prática como ele consegue controlar o caminho de execução, tratando **sucesso**, **falha** e até mesmo caminhos alternativos.
 
 Claro que para isso eu escolhi utilizar um código JSON para entender melhor como cada step são declaradas, mas podemos apenas selecionar os serviços e arrastar, montando o fluxo visualmente.
 
@@ -30,13 +30,14 @@ Além da facilidade de implementação, notei os seguintes pontos positivos:
 - **Escalabilidade**: Essencial em ambientes serverless, onde coordenação entre funções desacopladas é vital.
 - **Performance**: O processamento foi feito em **nanosegundos**, achei incrível!
 
+
 > Foi uma experiência muito bacana, acho importantíssimo aplicar o conhecimento teórico, porque ler sobre o funcionamento do serviço é bem diferente de vê-lo acontecendo, e melhor... Fazendo ele acontecer, quando ouvi falar do Step Functions a primeira vez durante os estudos para tirar a certificação Cloud Practitioner, já achei bastante interessante, agora então... Mudou completamente minha percepção sobre orquestração em ambientes distribuídos.
 
 ---
 
-### 🖼️ Algumas evidências do Lab
+### Algumas evidências do Lab
 
-Abaixo alguns registros do fluxo funcionando:
+**O fluxo funcionando:**
 
 ![Step Functions Exemplo](/assets/img/cloud/StepFunctions1.png)
 ![Step Functions Exemplo](/assets/img/cloud/StepFunctions2.png)
