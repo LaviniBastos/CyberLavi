@@ -7,7 +7,7 @@ order: 4
 ---
 
 Olá, eu sou a Lavini! Uma mulher trans que encontrou na tecnologia muito mais do que uma carreira: 
-um caminho para a **dignidade**, **transformação** e **pertencimento**.git
+um caminho para a **dignidade**, **transformação** e **pertencimento**
 
 Minhas competências como profissional falam por si. Sou uma pessoa muito dedicada, comprometida e curiosa por natureza. O que mais gosto na área de tecnologia é a possibilidade de aprender algo novo todos os dias e eu **adoro aprender**. Acredito fortemente no poder do conhecimento e me considero uma eterna aprendiz, independentemente da fase da vida ou da carreira. E é justamente esse aspecto na área (de segurança principalmente) que me motiva, e considero como um verdadeiro lembrete para sempre pensar fora da caixinha.
 
