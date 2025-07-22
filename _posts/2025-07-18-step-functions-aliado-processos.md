@@ -8,7 +8,7 @@ description: "Como o AWS Step-Functions pode ajudar a orquestrar processos serve
 image: /assets/img/cloud/img_step_function.png
 ---
 
-Estou me preparando para a certificação AWS Developer e, para consolidar os conhecimentos, venho praticando com laboratórios utilizando as principais ferramentas da AWS focadas no desenvolvimento seguro e escalável.
+Para consolidar todos os conhecimentos e aprendizados que venho adquirindo durante a minha trilha de estudos para a certificação Developer, venho praticando com laboratórios utilizando as principais ferramentas da AWS focadas no desenvolvimento seguro e escalável.
 
 Recentemente, decidi testar o funcionamento do **Step Functions** na prática em um fluxo bem simples e o resultado me surpreendeu.
 
