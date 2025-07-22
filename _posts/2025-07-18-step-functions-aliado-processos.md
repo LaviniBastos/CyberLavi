@@ -5,6 +5,7 @@ date: 2025-07-18 20:00:00 +0000
 categories: [AWS, Lambda, Serverless]
 tags: [step-functions, aws, serverless, lambda, arquitetura]
 description: "Como o AWS Step-Functions pode ajudar a orquestrar processos serverless com eficiência e visibilidade."
+image: /assets/img/cloud/img_step_function.png
 ---
 
 Estou me preparando para a certificação AWS Developer e, para consolidar os conhecimentos, venho praticando com laboratórios utilizando as principais ferramentas da AWS focadas no desenvolvimento seguro e escalável.

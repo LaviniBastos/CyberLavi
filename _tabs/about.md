@@ -71,24 +71,3 @@ Tenho um conjunto de competências técnicas construídas ao longo de formaçõe
 - Linguagens: **Python**, **Shell Script (Bash)**.
     
 
-### **Certificações e Cursos** 
-
-- AWS Certified Cloud Practitioner _(2025)_
-    
-- AWS Re/Start – Escola da Nuvem _(2024–2025)_
-    
-- Formação AWS Developer _(em andamento – 2025)_
-    
-- CCNA (Cisco) – Módulos 2 e 3 _(em andamento – 2025)_
-
-- Conceitos Básicos de Redes – Cisco _(2025)_
-    
-- CCNA 1 Introduction to Networks – Cisco _(2025)_
-
-- Gerenciamento de Ameaças Cibernéticas – Cisco _(2024)_
-    
-- Boas Práticas de Cibersegurança – IBSEC _(2023)_
-    
-- Introdução ao Hacking e Pentest – Solyd _(2023)_
-    
-- Introdução ao Python – Solyd _(2024)_
