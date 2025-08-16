@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Análise de riscos."
-date: 2025-08-16 12:00:00 +0000
+date: 2025-08-16 16:00:00 +0000
 categories: [Governança de TI, Estratégia, Documentação]
-tags: [Governança de TI, análise de riscos, gestão de riscos]
+tags: [governança de TI, análise de riscos, gestão de riscos]
 description: "Você sabe a importância da Gestão de Riscos?"
-image: image: /assets/img/governanca/layout2.png
+image: /assets/img/governanca/layout2.png
 ---
+
+
 
 A capacidade de entender e medir os riscos que podem afetar a integridade da nossa vida foi o que definitivamente nos trouxe até aqui. E norteia a nossa sobrevivência, pois exatamente tudo envolve um certo grau de risco: *dirigir, sair na rua de madrugada, subir em uma árvore, fazer um investimento, decidir mudar de profissão, atravessar a rua*, enfim, riscos que fazem parte do nosso cotidiano como seres humanos, onde precisamos constantemente medir para garantir a nossa sobrevivência. 
 
