@@ -24,15 +24,15 @@ E para entrar em contraste com o impacto para medir o nível de criticidade de d
 
 A que usei como referência é a *Matriz de Risco HFMEA (Healthcare Failure Mode and Effects Analysis)* muito utilizada na área da saúde, tornando-a muito mais completa trazendo um aspecto importantíssimo que é a "detectabilidade": a facilidade em detectar um risco ou uma falha, pois na grande maioria dos casos estamos avaliando sistemas, e em sistemas pode haver alguns riscos ocultos e precisamos ter a capacidade de **detecta-lo** o quanto antes, se não, o vazamento de água vai acontecendo e só vamos perceber quando o teto cair.
 
-![Matriz de Risco](/assets/img/governança/Matriz-de-risco.png)
+![Matriz de Risco](/assets/img/governanca/Matriz-de-risco.png)
 
 Outra coisa que achei bem interessante é que durante a análise de risco utilizando essa referência, temos um outro lado da matriz onde podemos identificar potenciais oportunidades. O que pode elevar o nível estratégico da empresa.
 
 Após entender tudo isso e fazer o cruzamento entre impacto e probabilidade conseguimos dar um nível de criticidade ao risco, e dependendo do nível vamos decidir então como trata-los. Percebe que podemos aqui realizar uma tomada de decisão mais embasada, com base no nível criticidade? Dando assim prioridade principalmente para os riscos obviamente mais críticos. 
 
-![Matriz de Risco-detalhes](/assets/img/governança/detalhes1.png)
+![Matriz de Risco-detalhes](/assets/img/governanca/detalhes1.png)
 
-![Matriz de Risco-detalhes](/assets/img/governança/detalhes2.png)
+![Matriz de Risco-detalhes](/assets/img/governanca/detalhes2.png)
 
 E para trata-los, aqui entra também algumas estratégias que dependem também do contexto da empresa e o seu apetite ao risco (Nível de risco que a empresa está disposta a aceitar para atingir seus objetivos).
 
