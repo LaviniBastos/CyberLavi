@@ -83,7 +83,7 @@ Foi criada uma **tabela de staging**, permitindo que os dados originais permanec
 
 ---
 
-### Demissões por país
+### Demissões por País
 
 - Estados Unidos lideram o ranking
 - Índia aparece em segundo lugar
